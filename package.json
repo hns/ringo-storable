@@ -3,5 +3,6 @@
     "version": "0.0.0",
     "description": "",
     "keywords": ["database"],
-    "author": "Hannes Wallnöfer <hannes@helma.at>"
+    "author": "Hannes Wallnöfer <hannesw@gmail.com>",
+    "main": "./lib/ringo/storable.js"
 }
