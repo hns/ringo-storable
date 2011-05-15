@@ -1,7 +1,7 @@
 {
     "name": "ringo-storable",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.1.0",
+    "description": "ES5 base class for persistent objects",
     "keywords": ["database"],
     "author": "Hannes Wallnöfer <hannesw@gmail.com>",
     "main": "./lib/ringo/storable.js"
